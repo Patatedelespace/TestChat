@@ -2,7 +2,14 @@
 #include "User.hpp"
 
 
-User current_user;
+User* current_user = new(User);
+
+int login() {
+    std::string pseudo;
+    std::string password;
+
+    
+};
 
 int main() {
     int log_or_sign;
