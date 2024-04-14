@@ -11,7 +11,7 @@ private:
     unsigned long ID;
     std::string pseudo;
     std::string password;
-    std::vector<unsigned long> conversations;
+    std::vector<unsigned long> conversations_accesses;
 
 public:
     User();
