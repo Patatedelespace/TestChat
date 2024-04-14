@@ -1,6 +1,8 @@
+#pragma once
+
 #include <string> 
 #include <vector>
-#include "nlohmann/json.hpp"
+#include <nlohmann/json.hpp>
 #include "Server.hpp"
 #include <fstream>
 #include <iostream>
@@ -22,3 +24,6 @@ std::vector<std::string> Server::getPseudoList() {
 int Server::signin(std::string pseudo, std::string password) {
 
 }
+
+Server::Server() {}
+Server::~Server() {}

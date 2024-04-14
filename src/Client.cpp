@@ -1,20 +1,22 @@
+#pragma once
+
 #include <iostream>
 #include "User.hpp"
 #include "Server.hpp"
 
 
-User* current_user = new(User);
-Server* server = new(Server);
+User* current_user = new User;
+Server* server = new Server;
 
 int login() {
     std::string pseudo;
     std::string password;
 
-    
+    return 0;
 };
 
 int main() {
-    server->getPseudoList();
+    //server->getPseudoList();
     int log_or_sign;
     while (log_or_sign != 1 && log_or_sign != 2) {
         std::cout << "login [1] or signup [2] ? : ";

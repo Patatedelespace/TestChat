@@ -18,11 +18,3 @@ public:
     int signin(std::string pseudo, std::string password);
 };
 
-Server::Server(/* args */)
-{
-}
-
-Server::~Server()
-{
-}
-
