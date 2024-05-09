@@ -23,7 +23,7 @@ int main() {
         std::cin >> log_or_sign;
         std::cin.ignore();
     }
-
+    
     switch (log_or_sign)
     {
     case 1/* constant-expression */:
