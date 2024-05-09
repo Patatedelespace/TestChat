@@ -13,7 +13,7 @@ template<typename T>
 bool is_in(const T& is, const std::vector<T>& in) {
     for (auto i : in)
     {
-        if (*i == is) {
+        if (i == is) {
             return true;
         }
     }
@@ -64,7 +64,7 @@ int signup() {
 
     } while (password != password_confirm);
 
-    std::cout << std::endl;
+    std::cout << std::endl << "Welcome among us, " << pseudo << ", hope you'll enjoy your experience :)";
 
     return 0;
 }
