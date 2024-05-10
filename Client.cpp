@@ -64,7 +64,7 @@ int signup() {
 
     } while (password != password_confirm);
 
-    std::cout << std::endl << "Welcome among us, " << pseudo << ", hope you'll enjoy your experience :)";
+    std::cout << std::endl << "Welcome among us, " << pseudo << ", hope you'll enjoy your experience :)" << std::endl;
 
     return 0;
 }
