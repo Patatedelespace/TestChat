@@ -37,3 +37,15 @@ int Server::signin(std::string pseudo, std::string password) {
 
 Server::Server() {}
 Server::~Server() {}
+
+Server* server = new Server;
+
+int main(int argc, char const *argv[])
+{
+    /* code 
+    while ("pas de requêtes")
+
+    
+    */
+    return 0;
+}

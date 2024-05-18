@@ -1,0 +1,3 @@
+/home/patate/Prog/CPP/TestChat/build/Debug/CMakeFiles/TestChat_Client.dir
+/home/patate/Prog/CPP/TestChat/build/Debug/CMakeFiles/edit_cache.dir
+/home/patate/Prog/CPP/TestChat/build/Debug/CMakeFiles/rebuild_cache.dir
