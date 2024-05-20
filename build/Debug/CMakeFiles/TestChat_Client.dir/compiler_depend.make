@@ -189,6 +189,7 @@ CMakeFiles/TestChat_Client.dir/Client.cpp.o: /home/patate/Prog/CPP/TestChat/Clie
 
 CMakeFiles/TestChat_Client.dir/Server.cpp.o: /home/patate/Prog/CPP/TestChat/Server.cpp \
   /home/patate/Prog/CPP/TestChat/Server.hpp \
+  /opt/vcpkg/installed/x64-linux/include/date/date.h \
   /opt/vcpkg/installed/x64-linux/include/nlohmann/adl_serializer.hpp \
   /opt/vcpkg/installed/x64-linux/include/nlohmann/byte_container_with_subtype.hpp \
   /opt/vcpkg/installed/x64-linux/include/nlohmann/detail/abi_macros.hpp \
@@ -365,6 +366,8 @@ CMakeFiles/TestChat_Client.dir/Server.cpp.o: /home/patate/Prog/CPP/TestChat/Serv
   /usr/x86_64-w64-mingw32/include/c++/13.1.0/cassert \
   /usr/x86_64-w64-mingw32/include/c++/13.1.0/cctype \
   /usr/x86_64-w64-mingw32/include/c++/13.1.0/cerrno \
+  /usr/x86_64-w64-mingw32/include/c++/13.1.0/chrono \
+  /usr/x86_64-w64-mingw32/include/c++/13.1.0/climits \
   /usr/x86_64-w64-mingw32/include/c++/13.1.0/clocale \
   /usr/x86_64-w64-mingw32/include/c++/13.1.0/cmath \
   /usr/x86_64-w64-mingw32/include/c++/13.1.0/codecvt \
@@ -388,6 +391,7 @@ CMakeFiles/TestChat_Client.dir/Server.cpp.o: /home/patate/Prog/CPP/TestChat/Serv
   /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/string_conversions.h \
   /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/type_traits.h \
   /usr/x86_64-w64-mingw32/include/c++/13.1.0/filesystem \
+  /usr/x86_64-w64-mingw32/include/c++/13.1.0/format \
   /usr/x86_64-w64-mingw32/include/c++/13.1.0/forward_list \
   /usr/x86_64-w64-mingw32/include/c++/13.1.0/fstream \
   /usr/x86_64-w64-mingw32/include/c++/13.1.0/functional \
@@ -679,6 +683,8 @@ CMakeFiles/TestChat_Client.dir/User.cpp.o: /home/patate/Prog/CPP/TestChat/User.c
 
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/forward_list:
 
+/usr/x86_64-w64-mingw32/include/c++/13.1.0/format:
+
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstring:
 
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/glue_memory_defs.h:
@@ -686,6 +692,8 @@ CMakeFiles/TestChat_Client.dir/User.cpp.o: /home/patate/Prog/CPP/TestChat/User.c
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/compare:
 
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/cmath:
+
+/usr/x86_64-w64-mingw32/include/c++/13.1.0/chrono:
 
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/valarray_array.tcc:
 
@@ -708,6 +716,8 @@ CMakeFiles/TestChat_Client.dir/User.cpp.o: /home/patate/Prog/CPP/TestChat/User.c
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_multimap.h:
 
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_map.h:
+
+/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_heap.h:
 
 /usr/x86_64-w64-mingw32/include/swprintf.inl:
 
@@ -1105,6 +1115,12 @@ CMakeFiles/TestChat_Client.dir/User.cpp.o: /home/patate/Prog/CPP/TestChat/User.c
 
 /home/patate/Prog/CPP/TestChat/Server.cpp:
 
+/opt/vcpkg/installed/x64-linux/include/date/date.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/output/output_adapters.hpp:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/std_fs.hpp:
+
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception_ptr.h:
 
 /opt/vcpkg/installed/x64-linux/include/nlohmann/adl_serializer.hpp:
@@ -1163,10 +1179,6 @@ CMakeFiles/TestChat_Client.dir/User.cpp.o: /home/patate/Prog/CPP/TestChat/User.c
 
 /opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/call_std/end.hpp:
 
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/output/output_adapters.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/std_fs.hpp:
-
 /usr/x86_64-w64-mingw32/include/signal.h:
 
 /opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/type_traits.hpp:
@@ -1198,6 +1210,8 @@ CMakeFiles/TestChat_Client.dir/User.cpp.o: /home/patate/Prog/CPP/TestChat/User.c
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/backward/auto_ptr.h:
 
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/algorithmfwd.h:
+
+/usr/x86_64-w64-mingw32/include/c++/13.1.0/climits:
 
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/valarray_before.h:
 
@@ -1248,5 +1262,3 @@ CMakeFiles/TestChat_Client.dir/User.cpp.o: /home/patate/Prog/CPP/TestChat/User.c
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/slice_array.h:
 
 /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_algo.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_heap.h:

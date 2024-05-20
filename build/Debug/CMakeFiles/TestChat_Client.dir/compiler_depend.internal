@@ -191,6 +191,7 @@ CMakeFiles/TestChat_Client.dir/Client.cpp.o
 CMakeFiles/TestChat_Client.dir/Server.cpp.o
  /home/patate/Prog/CPP/TestChat/Server.cpp
  /home/patate/Prog/CPP/TestChat/Server.hpp
+ /opt/vcpkg/installed/x64-linux/include/date/date.h
  /opt/vcpkg/installed/x64-linux/include/nlohmann/adl_serializer.hpp
  /opt/vcpkg/installed/x64-linux/include/nlohmann/byte_container_with_subtype.hpp
  /opt/vcpkg/installed/x64-linux/include/nlohmann/detail/abi_macros.hpp
@@ -367,6 +368,8 @@ CMakeFiles/TestChat_Client.dir/Server.cpp.o
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cassert
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cctype
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cerrno
+ /usr/x86_64-w64-mingw32/include/c++/13.1.0/chrono
+ /usr/x86_64-w64-mingw32/include/c++/13.1.0/climits
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/clocale
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cmath
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/codecvt
@@ -390,6 +393,7 @@ CMakeFiles/TestChat_Client.dir/Server.cpp.o
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/string_conversions.h
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/type_traits.h
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/filesystem
+ /usr/x86_64-w64-mingw32/include/c++/13.1.0/format
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/forward_list
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/fstream
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/functional

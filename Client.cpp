@@ -9,17 +9,17 @@
 User* current_user = new User;
 Server* server = new Server;
 
-template<typename T>
-bool is_in(const T& is, const std::vector<T>& in) {
-    for (auto i : in)
-    {
-        if (i == is) {
-            return true;
-        }
-    }
+// template<typename T>
+// bool is_in(const T& is, const std::vector<T>& in) {
+//     for (auto i : in)
+//     {
+//         if (i == is) {
+//             return true;
+//         }
+//     }
     
-    return false;
-}
+//     return false;
+// }
 
 int login() {
     std::string pseudo;
@@ -48,7 +48,7 @@ int signup() {
 
     do {
         do {
-            std::cout << "\nEnter yout password (I haven't implemented yet a way to hide what you're typing so make sure nobody is watching at you) : "; std::cin >> password; std::cin.ignore();
+            std::cout << "\nEnter your password (I haven't implemented yet a way to hide what you're typing so make sure nobody is watching at you) : "; std::cin >> password; std::cin.ignore();
 
             if (password.length() < 8) {
                 std::cout << "Your password must be 8 or more characters long" << std::endl;
@@ -64,7 +64,24 @@ int signup() {
 
     } while (password != password_confirm);
 
-    std::cout << std::endl << "Welcome among us, " << pseudo << ", hope you'll enjoy your experience :)" << std::endl;
+    int* signup_result = new int(server->signup(pseudo, password));
+
+    switch (*signup_result)
+    {
+    case 0:
+        std::cout << std::endl << "Welcome among us, " << pseudo << ", hope you'll enjoy your experience :)" << std::endl;
+        break;
+
+    case 2:
+        std::cout << std::endl << "Oops, while you were registering yourself, someone else picked up this username, please try again with an other name." << std::endl;
+        break;
+    
+    default:
+        std::cout << std::endl << "An error occurred when signing you up, please try again or contact the administrator. Error code: " << *signup_result << "." << std::endl;
+        break;
+    }
+
+    delete signup_result;
 
     return 0;
 }

@@ -300,4 +300,8 @@ CMakeFiles/TestChat_Client.dir/Server.cpp.o: \
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/basic_file.h \
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++io.h \
  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fstream.tcc \
- /usr/x86_64-w64-mingw32/include/c++/13.1.0/iostream
+ /usr/x86_64-w64-mingw32/include/c++/13.1.0/iostream \
+ /usr/x86_64-w64-mingw32/include/c++/13.1.0/chrono \
+ /usr/x86_64-w64-mingw32/include/c++/13.1.0/format \
+ /opt/vcpkg/installed/x64-linux/include/date/date.h \
+ /usr/x86_64-w64-mingw32/include/c++/13.1.0/climits
