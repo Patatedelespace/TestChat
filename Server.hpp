@@ -21,7 +21,7 @@ class Server
 {
 private:
     std::string PseudoList_path = "./resource/PseudoList.json";
-    std::string PseudoList_backup_path = "./resources/PseudoList.backup";
+    std::string PseudoList_backup_path = "./resource/PseudoList.backup";
     std::string Conversations_folder_path = "./ressource/Conversations";
     std::string Users_folder_path = "./ressource/Users";
 public:

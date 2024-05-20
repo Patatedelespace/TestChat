@@ -73,43 +73,43 @@ CMakeFiles/TestChat_Client.dir/Client.cpp.o: CMakeFiles/TestChat_Client.dir/flag
 CMakeFiles/TestChat_Client.dir/Client.cpp.o: /home/patate/Prog/CPP/TestChat/Client.cpp
 CMakeFiles/TestChat_Client.dir/Client.cpp.o: CMakeFiles/TestChat_Client.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/patate/Prog/CPP/TestChat/build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TestChat_Client.dir/Client.cpp.o"
-	/bin/x86_64-w64-mingw32-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TestChat_Client.dir/Client.cpp.o -MF CMakeFiles/TestChat_Client.dir/Client.cpp.o.d -o CMakeFiles/TestChat_Client.dir/Client.cpp.o -c /home/patate/Prog/CPP/TestChat/Client.cpp
+	/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TestChat_Client.dir/Client.cpp.o -MF CMakeFiles/TestChat_Client.dir/Client.cpp.o.d -o CMakeFiles/TestChat_Client.dir/Client.cpp.o -c /home/patate/Prog/CPP/TestChat/Client.cpp
 
 CMakeFiles/TestChat_Client.dir/Client.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TestChat_Client.dir/Client.cpp.i"
-	/bin/x86_64-w64-mingw32-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/patate/Prog/CPP/TestChat/Client.cpp > CMakeFiles/TestChat_Client.dir/Client.cpp.i
+	/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/patate/Prog/CPP/TestChat/Client.cpp > CMakeFiles/TestChat_Client.dir/Client.cpp.i
 
 CMakeFiles/TestChat_Client.dir/Client.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TestChat_Client.dir/Client.cpp.s"
-	/bin/x86_64-w64-mingw32-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/patate/Prog/CPP/TestChat/Client.cpp -o CMakeFiles/TestChat_Client.dir/Client.cpp.s
+	/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/patate/Prog/CPP/TestChat/Client.cpp -o CMakeFiles/TestChat_Client.dir/Client.cpp.s
 
 CMakeFiles/TestChat_Client.dir/User.cpp.o: CMakeFiles/TestChat_Client.dir/flags.make
 CMakeFiles/TestChat_Client.dir/User.cpp.o: /home/patate/Prog/CPP/TestChat/User.cpp
 CMakeFiles/TestChat_Client.dir/User.cpp.o: CMakeFiles/TestChat_Client.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/patate/Prog/CPP/TestChat/build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TestChat_Client.dir/User.cpp.o"
-	/bin/x86_64-w64-mingw32-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TestChat_Client.dir/User.cpp.o -MF CMakeFiles/TestChat_Client.dir/User.cpp.o.d -o CMakeFiles/TestChat_Client.dir/User.cpp.o -c /home/patate/Prog/CPP/TestChat/User.cpp
+	/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TestChat_Client.dir/User.cpp.o -MF CMakeFiles/TestChat_Client.dir/User.cpp.o.d -o CMakeFiles/TestChat_Client.dir/User.cpp.o -c /home/patate/Prog/CPP/TestChat/User.cpp
 
 CMakeFiles/TestChat_Client.dir/User.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TestChat_Client.dir/User.cpp.i"
-	/bin/x86_64-w64-mingw32-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/patate/Prog/CPP/TestChat/User.cpp > CMakeFiles/TestChat_Client.dir/User.cpp.i
+	/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/patate/Prog/CPP/TestChat/User.cpp > CMakeFiles/TestChat_Client.dir/User.cpp.i
 
 CMakeFiles/TestChat_Client.dir/User.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TestChat_Client.dir/User.cpp.s"
-	/bin/x86_64-w64-mingw32-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/patate/Prog/CPP/TestChat/User.cpp -o CMakeFiles/TestChat_Client.dir/User.cpp.s
+	/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/patate/Prog/CPP/TestChat/User.cpp -o CMakeFiles/TestChat_Client.dir/User.cpp.s
 
 CMakeFiles/TestChat_Client.dir/Server.cpp.o: CMakeFiles/TestChat_Client.dir/flags.make
 CMakeFiles/TestChat_Client.dir/Server.cpp.o: /home/patate/Prog/CPP/TestChat/Server.cpp
 CMakeFiles/TestChat_Client.dir/Server.cpp.o: CMakeFiles/TestChat_Client.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/patate/Prog/CPP/TestChat/build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TestChat_Client.dir/Server.cpp.o"
-	/bin/x86_64-w64-mingw32-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TestChat_Client.dir/Server.cpp.o -MF CMakeFiles/TestChat_Client.dir/Server.cpp.o.d -o CMakeFiles/TestChat_Client.dir/Server.cpp.o -c /home/patate/Prog/CPP/TestChat/Server.cpp
+	/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TestChat_Client.dir/Server.cpp.o -MF CMakeFiles/TestChat_Client.dir/Server.cpp.o.d -o CMakeFiles/TestChat_Client.dir/Server.cpp.o -c /home/patate/Prog/CPP/TestChat/Server.cpp
 
 CMakeFiles/TestChat_Client.dir/Server.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TestChat_Client.dir/Server.cpp.i"
-	/bin/x86_64-w64-mingw32-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/patate/Prog/CPP/TestChat/Server.cpp > CMakeFiles/TestChat_Client.dir/Server.cpp.i
+	/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/patate/Prog/CPP/TestChat/Server.cpp > CMakeFiles/TestChat_Client.dir/Server.cpp.i
 
 CMakeFiles/TestChat_Client.dir/Server.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TestChat_Client.dir/Server.cpp.s"
-	/bin/x86_64-w64-mingw32-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/patate/Prog/CPP/TestChat/Server.cpp -o CMakeFiles/TestChat_Client.dir/Server.cpp.s
+	/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/patate/Prog/CPP/TestChat/Server.cpp -o CMakeFiles/TestChat_Client.dir/Server.cpp.s
 
 # Object files for target TestChat_Client
 TestChat_Client_OBJECTS = \

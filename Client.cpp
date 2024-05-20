@@ -64,9 +64,9 @@ int signup() {
 
     } while (password != password_confirm);
 
-    int* signup_result = new int(server->signup(pseudo, password));
+    int signup_result = server->signup(pseudo, password);
 
-    switch (*signup_result)
+    switch (signup_result)
     {
     case 0:
         std::cout << std::endl << "Welcome among us, " << pseudo << ", hope you'll enjoy your experience :)" << std::endl;
@@ -77,17 +77,14 @@ int signup() {
         break;
     
     default:
-        std::cout << std::endl << "An error occurred when signing you up, please try again or contact the administrator. Error code: " << *signup_result << "." << std::endl;
+        std::cout << std::endl << "An error occurred when signing you up, please try again or contact the administrator. Error code: " << signup_result << "." << std::endl;
         break;
     }
-
-    delete signup_result;
 
     return 0;
 }
 
 int main() {
-    server->getPseudoList();
     int log_or_sign;
     while (log_or_sign != 1 && log_or_sign != 2) {
         std::cout << "login [1] or signup [2] ? : ";

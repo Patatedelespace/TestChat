@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.29)
 
 set(CXX_STANDARD 23)
-set(CMAKE_CXX_COMPILER "/bin/x86_64-w64-mingw32-g++")
+set(CMAKE_CXX_COMPILER "/bin/g++")
 
 project(TestChat_Client)
 

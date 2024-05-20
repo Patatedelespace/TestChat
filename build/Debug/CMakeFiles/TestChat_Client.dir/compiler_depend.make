@@ -4,188 +4,236 @@
 CMakeFiles/TestChat_Client.dir/Client.cpp.o: /home/patate/Prog/CPP/TestChat/Client.cpp \
   /home/patate/Prog/CPP/TestChat/Server.hpp \
   /home/patate/Prog/CPP/TestChat/User.hpp \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
-  /usr/x86_64-w64-mingw32/include/_mingw.h \
-  /usr/x86_64-w64-mingw32/include/_mingw_mac.h \
-  /usr/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  /usr/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  /usr/x86_64-w64-mingw32/include/_mingw_stat64.h \
-  /usr/x86_64-w64-mingw32/include/_timeval.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/backward/binders.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bit \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/alloc_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/allocated_ptr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/allocator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_ios.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_ios.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_string.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_string.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/char_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/charconv.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/chrono.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/codecvt.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/concept_check.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/cpp_type_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/cxxabi_forced.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/cxxabi_init_exception.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception_defines.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception_ptr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fs_dir.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fs_fwd.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fs_ops.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fs_path.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fstream.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/functexcept.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/functional_hash.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/hash_bytes.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/invoke.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ios_base.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/istream.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_classes.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_classes.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_conv.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets_nonio.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets_nonio.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/localefwd.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/memory_resource.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/memoryfwd.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/move.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/nested_exception.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/new_allocator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ostream.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ostream_insert.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/parse_numbers.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/postypes.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/predefined_ops.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ptr_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/quoted_string.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/range_access.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/refwrap.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/requires_hosted.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/shared_ptr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/shared_ptr_base.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/sstream.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/std_abs.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_algobase.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_bvector.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_construct.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_function.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_iterator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_iterator_base_funcs.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_iterator_base_types.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_pair.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_uninitialized.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_vector.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/streambuf.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/streambuf_iterator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/string_view.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stringfwd.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/unique_ptr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/uses_allocator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/uses_allocator_args.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/utility.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/vector.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cctype \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cerrno \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/clocale \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/codecvt \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstddef \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstdint \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstdio \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstdlib \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ctime \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cwchar \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cwctype \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/debug/assertions.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/debug/debug.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/exception \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/aligned_buffer.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/alloc_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/atomicity.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/concurrence.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/numeric_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/string_conversions.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/type_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/filesystem \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/fstream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/initializer_list \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/iomanip \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ios \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/iosfwd \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/iostream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/istream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/limits \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/locale \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/new \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ostream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/pstl_config.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ratio \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/sstream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/stdexcept \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/stdlib.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/streambuf \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/string \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/string_view \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/system_error \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tuple \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/type_traits \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/typeinfo \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/vector \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/atomic_word.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/basic_file.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++allocator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++config.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++io.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++locale.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/ctype_base.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/ctype_inline.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/error_constants.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/gthr-default.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/gthr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/messages_members.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/os_defines.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/time_members.h \
-  /usr/x86_64-w64-mingw32/include/corecrt.h \
-  /usr/x86_64-w64-mingw32/include/corecrt_startup.h \
-  /usr/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  /usr/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  /usr/x86_64-w64-mingw32/include/crtdefs.h \
-  /usr/x86_64-w64-mingw32/include/ctype.h \
-  /usr/x86_64-w64-mingw32/include/errno.h \
-  /usr/x86_64-w64-mingw32/include/limits.h \
-  /usr/x86_64-w64-mingw32/include/locale.h \
-  /usr/x86_64-w64-mingw32/include/malloc.h \
-  /usr/x86_64-w64-mingw32/include/process.h \
-  /usr/x86_64-w64-mingw32/include/pthread.h \
-  /usr/x86_64-w64-mingw32/include/pthread_compat.h \
-  /usr/x86_64-w64-mingw32/include/pthread_signal.h \
-  /usr/x86_64-w64-mingw32/include/pthread_time.h \
-  /usr/x86_64-w64-mingw32/include/pthread_unistd.h \
-  /usr/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
-  /usr/x86_64-w64-mingw32/include/signal.h \
-  /usr/x86_64-w64-mingw32/include/stddef.h \
-  /usr/x86_64-w64-mingw32/include/stdint.h \
-  /usr/x86_64-w64-mingw32/include/stdio.h \
-  /usr/x86_64-w64-mingw32/include/stdlib.h \
-  /usr/x86_64-w64-mingw32/include/swprintf.inl \
-  /usr/x86_64-w64-mingw32/include/sys/timeb.h \
-  /usr/x86_64-w64-mingw32/include/sys/types.h \
-  /usr/x86_64-w64-mingw32/include/time.h \
-  /usr/x86_64-w64-mingw32/include/vadefs.h \
-  /usr/x86_64-w64-mingw32/include/wchar.h \
-  /usr/x86_64-w64-mingw32/include/wctype.h
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wctype-wchar.h \
+  /usr/include/bits/wordsize.h \
+  /usr/include/c++/14.1.1/backward/binders.h \
+  /usr/include/c++/14.1.1/bit \
+  /usr/include/c++/14.1.1/bits/alloc_traits.h \
+  /usr/include/c++/14.1.1/bits/allocated_ptr.h \
+  /usr/include/c++/14.1.1/bits/allocator.h \
+  /usr/include/c++/14.1.1/bits/basic_ios.h \
+  /usr/include/c++/14.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/14.1.1/bits/basic_string.h \
+  /usr/include/c++/14.1.1/bits/basic_string.tcc \
+  /usr/include/c++/14.1.1/bits/char_traits.h \
+  /usr/include/c++/14.1.1/bits/charconv.h \
+  /usr/include/c++/14.1.1/bits/chrono.h \
+  /usr/include/c++/14.1.1/bits/codecvt.h \
+  /usr/include/c++/14.1.1/bits/concept_check.h \
+  /usr/include/c++/14.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/14.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/14.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/14.1.1/bits/exception.h \
+  /usr/include/c++/14.1.1/bits/exception_defines.h \
+  /usr/include/c++/14.1.1/bits/exception_ptr.h \
+  /usr/include/c++/14.1.1/bits/fs_dir.h \
+  /usr/include/c++/14.1.1/bits/fs_fwd.h \
+  /usr/include/c++/14.1.1/bits/fs_ops.h \
+  /usr/include/c++/14.1.1/bits/fs_path.h \
+  /usr/include/c++/14.1.1/bits/fstream.tcc \
+  /usr/include/c++/14.1.1/bits/functexcept.h \
+  /usr/include/c++/14.1.1/bits/functional_hash.h \
+  /usr/include/c++/14.1.1/bits/hash_bytes.h \
+  /usr/include/c++/14.1.1/bits/invoke.h \
+  /usr/include/c++/14.1.1/bits/ios_base.h \
+  /usr/include/c++/14.1.1/bits/istream.tcc \
+  /usr/include/c++/14.1.1/bits/locale_classes.h \
+  /usr/include/c++/14.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/14.1.1/bits/locale_conv.h \
+  /usr/include/c++/14.1.1/bits/locale_facets.h \
+  /usr/include/c++/14.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/14.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/14.1.1/bits/locale_facets_nonio.tcc \
+  /usr/include/c++/14.1.1/bits/localefwd.h \
+  /usr/include/c++/14.1.1/bits/memory_resource.h \
+  /usr/include/c++/14.1.1/bits/memoryfwd.h \
+  /usr/include/c++/14.1.1/bits/move.h \
+  /usr/include/c++/14.1.1/bits/nested_exception.h \
+  /usr/include/c++/14.1.1/bits/new_allocator.h \
+  /usr/include/c++/14.1.1/bits/ostream.tcc \
+  /usr/include/c++/14.1.1/bits/ostream_insert.h \
+  /usr/include/c++/14.1.1/bits/parse_numbers.h \
+  /usr/include/c++/14.1.1/bits/postypes.h \
+  /usr/include/c++/14.1.1/bits/predefined_ops.h \
+  /usr/include/c++/14.1.1/bits/ptr_traits.h \
+  /usr/include/c++/14.1.1/bits/quoted_string.h \
+  /usr/include/c++/14.1.1/bits/range_access.h \
+  /usr/include/c++/14.1.1/bits/refwrap.h \
+  /usr/include/c++/14.1.1/bits/requires_hosted.h \
+  /usr/include/c++/14.1.1/bits/shared_ptr.h \
+  /usr/include/c++/14.1.1/bits/shared_ptr_base.h \
+  /usr/include/c++/14.1.1/bits/sstream.tcc \
+  /usr/include/c++/14.1.1/bits/std_abs.h \
+  /usr/include/c++/14.1.1/bits/stl_algobase.h \
+  /usr/include/c++/14.1.1/bits/stl_bvector.h \
+  /usr/include/c++/14.1.1/bits/stl_construct.h \
+  /usr/include/c++/14.1.1/bits/stl_function.h \
+  /usr/include/c++/14.1.1/bits/stl_iterator.h \
+  /usr/include/c++/14.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/14.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/14.1.1/bits/stl_pair.h \
+  /usr/include/c++/14.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/14.1.1/bits/stl_vector.h \
+  /usr/include/c++/14.1.1/bits/streambuf.tcc \
+  /usr/include/c++/14.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/14.1.1/bits/string_view.tcc \
+  /usr/include/c++/14.1.1/bits/stringfwd.h \
+  /usr/include/c++/14.1.1/bits/unique_ptr.h \
+  /usr/include/c++/14.1.1/bits/uses_allocator.h \
+  /usr/include/c++/14.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/14.1.1/bits/utility.h \
+  /usr/include/c++/14.1.1/bits/vector.tcc \
+  /usr/include/c++/14.1.1/bits/version.h \
+  /usr/include/c++/14.1.1/cctype \
+  /usr/include/c++/14.1.1/cerrno \
+  /usr/include/c++/14.1.1/clocale \
+  /usr/include/c++/14.1.1/codecvt \
+  /usr/include/c++/14.1.1/concepts \
+  /usr/include/c++/14.1.1/cstddef \
+  /usr/include/c++/14.1.1/cstdint \
+  /usr/include/c++/14.1.1/cstdio \
+  /usr/include/c++/14.1.1/cstdlib \
+  /usr/include/c++/14.1.1/ctime \
+  /usr/include/c++/14.1.1/cwchar \
+  /usr/include/c++/14.1.1/cwctype \
+  /usr/include/c++/14.1.1/debug/assertions.h \
+  /usr/include/c++/14.1.1/debug/debug.h \
+  /usr/include/c++/14.1.1/exception \
+  /usr/include/c++/14.1.1/ext/aligned_buffer.h \
+  /usr/include/c++/14.1.1/ext/alloc_traits.h \
+  /usr/include/c++/14.1.1/ext/atomicity.h \
+  /usr/include/c++/14.1.1/ext/concurrence.h \
+  /usr/include/c++/14.1.1/ext/numeric_traits.h \
+  /usr/include/c++/14.1.1/ext/string_conversions.h \
+  /usr/include/c++/14.1.1/ext/type_traits.h \
+  /usr/include/c++/14.1.1/filesystem \
+  /usr/include/c++/14.1.1/fstream \
+  /usr/include/c++/14.1.1/initializer_list \
+  /usr/include/c++/14.1.1/iomanip \
+  /usr/include/c++/14.1.1/ios \
+  /usr/include/c++/14.1.1/iosfwd \
+  /usr/include/c++/14.1.1/iostream \
+  /usr/include/c++/14.1.1/istream \
+  /usr/include/c++/14.1.1/limits \
+  /usr/include/c++/14.1.1/locale \
+  /usr/include/c++/14.1.1/new \
+  /usr/include/c++/14.1.1/ostream \
+  /usr/include/c++/14.1.1/pstl/pstl_config.h \
+  /usr/include/c++/14.1.1/ratio \
+  /usr/include/c++/14.1.1/sstream \
+  /usr/include/c++/14.1.1/stdexcept \
+  /usr/include/c++/14.1.1/streambuf \
+  /usr/include/c++/14.1.1/string \
+  /usr/include/c++/14.1.1/string_view \
+  /usr/include/c++/14.1.1/system_error \
+  /usr/include/c++/14.1.1/tuple \
+  /usr/include/c++/14.1.1/type_traits \
+  /usr/include/c++/14.1.1/typeinfo \
+  /usr/include/c++/14.1.1/vector \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/basic_file.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++io.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/libintl.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/include/wctype.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stdint.h
 
 CMakeFiles/TestChat_Client.dir/Server.cpp.o: /home/patate/Prog/CPP/TestChat/Server.cpp \
   /home/patate/Prog/CPP/TestChat/Server.hpp \
@@ -235,1030 +283,1273 @@ CMakeFiles/TestChat_Client.dir/Server.cpp.o: /home/patate/Prog/CPP/TestChat/Serv
   /opt/vcpkg/installed/x64-linux/include/nlohmann/ordered_map.hpp \
   /opt/vcpkg/installed/x64-linux/include/nlohmann/thirdparty/hedley/hedley.hpp \
   /opt/vcpkg/installed/x64-linux/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
-  /usr/x86_64-w64-mingw32/include/_mingw.h \
-  /usr/x86_64-w64-mingw32/include/_mingw_mac.h \
-  /usr/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  /usr/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  /usr/x86_64-w64-mingw32/include/_mingw_stat64.h \
-  /usr/x86_64-w64-mingw32/include/_timeval.h \
-  /usr/x86_64-w64-mingw32/include/assert.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/algorithm \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/any \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/array \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/backward/auto_ptr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/backward/binders.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bit \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/algorithmfwd.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/align.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/alloc_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/allocated_ptr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/allocator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/atomic_base.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/atomic_lockfree_defines.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_ios.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_ios.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_string.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_string.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/char_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/charconv.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/chrono.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/codecvt.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/concept_check.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/cpp_type_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/cxxabi_forced.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/cxxabi_init_exception.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/enable_special_members.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/erase_if.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception_defines.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception_ptr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/forward_list.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/forward_list.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fs_dir.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fs_fwd.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fs_ops.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fs_path.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fstream.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/functexcept.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/functional_hash.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/gslice.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/gslice_array.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/hash_bytes.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/hashtable.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/hashtable_policy.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/indirect_array.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/invoke.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ios_base.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/istream.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_classes.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_classes.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_conv.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets_nonio.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets_nonio.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/localefwd.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/mask_array.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/memory_resource.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/memoryfwd.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/move.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/nested_exception.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/new_allocator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/node_handle.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ostream.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ostream_insert.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/parse_numbers.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/postypes.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/predefined_ops.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ptr_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/quoted_string.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/range_access.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/refwrap.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/requires_hosted.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/shared_ptr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/shared_ptr_atomic.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/shared_ptr_base.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/slice_array.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/specfun.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/sstream.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/std_abs.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/std_function.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_algo.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_algobase.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_bvector.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_construct.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_function.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_heap.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_iterator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_iterator_base_funcs.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_iterator_base_types.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_map.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_multimap.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_numeric.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_pair.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_raw_storage_iter.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_relops.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_tempbuf.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_tree.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_uninitialized.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_vector.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stream_iterator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/streambuf.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/streambuf_iterator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/string_view.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stringfwd.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/uniform_int_dist.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/unique_ptr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/unordered_map.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/uses_allocator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/uses_allocator_args.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/utility.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/valarray_after.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/valarray_array.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/valarray_array.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/valarray_before.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/vector.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cassert \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cctype \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cerrno \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/chrono \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/climits \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/clocale \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cmath \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/codecvt \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/compare \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstddef \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstdint \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstdio \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstdlib \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstring \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ctime \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cwchar \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cwctype \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/debug/assertions.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/debug/debug.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/exception \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/aligned_buffer.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/alloc_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/atomicity.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/concurrence.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/numeric_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/string_conversions.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/type_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/filesystem \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/format \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/forward_list \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/fstream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/functional \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/initializer_list \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/iomanip \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ios \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/iosfwd \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/iostream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/istream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/iterator \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/limits \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/locale \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/map \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/memory \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/new \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/numeric \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ostream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/execution_defs.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/glue_algorithm_defs.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/glue_memory_defs.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/glue_numeric_defs.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/pstl_config.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ratio \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/sstream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/stdexcept \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/stdlib.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/streambuf \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/string \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/string_view \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/system_error \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/bessel_function.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/beta_function.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/ell_integral.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/exp_integral.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/gamma.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/hypergeometric.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/legendre_function.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/modified_bessel_func.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/poly_hermite.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/poly_laguerre.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/riemann_zeta.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/special_function_util.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tuple \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/type_traits \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/typeinfo \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/unordered_map \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/utility \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/valarray \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/vector \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/version \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/atomic_word.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/basic_file.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++allocator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++config.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++io.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++locale.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/ctype_base.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/ctype_inline.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/error_constants.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/gthr-default.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/gthr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/messages_members.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/os_defines.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/time_members.h \
-  /usr/x86_64-w64-mingw32/include/corecrt.h \
-  /usr/x86_64-w64-mingw32/include/corecrt_startup.h \
-  /usr/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  /usr/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  /usr/x86_64-w64-mingw32/include/crtdefs.h \
-  /usr/x86_64-w64-mingw32/include/ctype.h \
-  /usr/x86_64-w64-mingw32/include/errno.h \
-  /usr/x86_64-w64-mingw32/include/limits.h \
-  /usr/x86_64-w64-mingw32/include/locale.h \
-  /usr/x86_64-w64-mingw32/include/malloc.h \
-  /usr/x86_64-w64-mingw32/include/math.h \
-  /usr/x86_64-w64-mingw32/include/process.h \
-  /usr/x86_64-w64-mingw32/include/pthread.h \
-  /usr/x86_64-w64-mingw32/include/pthread_compat.h \
-  /usr/x86_64-w64-mingw32/include/pthread_signal.h \
-  /usr/x86_64-w64-mingw32/include/pthread_time.h \
-  /usr/x86_64-w64-mingw32/include/pthread_unistd.h \
-  /usr/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
-  /usr/x86_64-w64-mingw32/include/signal.h \
-  /usr/x86_64-w64-mingw32/include/stddef.h \
-  /usr/x86_64-w64-mingw32/include/stdint.h \
-  /usr/x86_64-w64-mingw32/include/stdio.h \
-  /usr/x86_64-w64-mingw32/include/stdlib.h \
-  /usr/x86_64-w64-mingw32/include/string.h \
-  /usr/x86_64-w64-mingw32/include/swprintf.inl \
-  /usr/x86_64-w64-mingw32/include/sys/timeb.h \
-  /usr/x86_64-w64-mingw32/include/sys/types.h \
-  /usr/x86_64-w64-mingw32/include/time.h \
-  /usr/x86_64-w64-mingw32/include/vadefs.h \
-  /usr/x86_64-w64-mingw32/include/wchar.h \
-  /usr/x86_64-w64-mingw32/include/wctype.h
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/assert.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/flt-eval-method.h \
+  /usr/include/bits/fp-fast.h \
+  /usr/include/bits/fp-logb.h \
+  /usr/include/bits/iscanonical.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/libm-simd-decl-stubs.h \
+  /usr/include/bits/local_lim.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/math-vector.h \
+  /usr/include/bits/mathcalls-helper-functions.h \
+  /usr/include/bits/mathcalls-narrow.h \
+  /usr/include/bits/mathcalls.h \
+  /usr/include/bits/posix1_lim.h \
+  /usr/include/bits/posix2_lim.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/uio_lim.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wctype-wchar.h \
+  /usr/include/bits/wordsize.h \
+  /usr/include/bits/xopen_lim.h \
+  /usr/include/c++/14.1.1/algorithm \
+  /usr/include/c++/14.1.1/any \
+  /usr/include/c++/14.1.1/array \
+  /usr/include/c++/14.1.1/backward/auto_ptr.h \
+  /usr/include/c++/14.1.1/backward/binders.h \
+  /usr/include/c++/14.1.1/bit \
+  /usr/include/c++/14.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/14.1.1/bits/align.h \
+  /usr/include/c++/14.1.1/bits/alloc_traits.h \
+  /usr/include/c++/14.1.1/bits/allocated_ptr.h \
+  /usr/include/c++/14.1.1/bits/allocator.h \
+  /usr/include/c++/14.1.1/bits/atomic_base.h \
+  /usr/include/c++/14.1.1/bits/atomic_lockfree_defines.h \
+  /usr/include/c++/14.1.1/bits/basic_ios.h \
+  /usr/include/c++/14.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/14.1.1/bits/basic_string.h \
+  /usr/include/c++/14.1.1/bits/basic_string.tcc \
+  /usr/include/c++/14.1.1/bits/char_traits.h \
+  /usr/include/c++/14.1.1/bits/charconv.h \
+  /usr/include/c++/14.1.1/bits/chrono.h \
+  /usr/include/c++/14.1.1/bits/codecvt.h \
+  /usr/include/c++/14.1.1/bits/concept_check.h \
+  /usr/include/c++/14.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/14.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/14.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/14.1.1/bits/enable_special_members.h \
+  /usr/include/c++/14.1.1/bits/erase_if.h \
+  /usr/include/c++/14.1.1/bits/exception.h \
+  /usr/include/c++/14.1.1/bits/exception_defines.h \
+  /usr/include/c++/14.1.1/bits/exception_ptr.h \
+  /usr/include/c++/14.1.1/bits/forward_list.h \
+  /usr/include/c++/14.1.1/bits/forward_list.tcc \
+  /usr/include/c++/14.1.1/bits/fs_dir.h \
+  /usr/include/c++/14.1.1/bits/fs_fwd.h \
+  /usr/include/c++/14.1.1/bits/fs_ops.h \
+  /usr/include/c++/14.1.1/bits/fs_path.h \
+  /usr/include/c++/14.1.1/bits/fstream.tcc \
+  /usr/include/c++/14.1.1/bits/functexcept.h \
+  /usr/include/c++/14.1.1/bits/functional_hash.h \
+  /usr/include/c++/14.1.1/bits/gslice.h \
+  /usr/include/c++/14.1.1/bits/gslice_array.h \
+  /usr/include/c++/14.1.1/bits/hash_bytes.h \
+  /usr/include/c++/14.1.1/bits/hashtable.h \
+  /usr/include/c++/14.1.1/bits/hashtable_policy.h \
+  /usr/include/c++/14.1.1/bits/indirect_array.h \
+  /usr/include/c++/14.1.1/bits/invoke.h \
+  /usr/include/c++/14.1.1/bits/ios_base.h \
+  /usr/include/c++/14.1.1/bits/istream.tcc \
+  /usr/include/c++/14.1.1/bits/locale_classes.h \
+  /usr/include/c++/14.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/14.1.1/bits/locale_conv.h \
+  /usr/include/c++/14.1.1/bits/locale_facets.h \
+  /usr/include/c++/14.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/14.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/14.1.1/bits/locale_facets_nonio.tcc \
+  /usr/include/c++/14.1.1/bits/localefwd.h \
+  /usr/include/c++/14.1.1/bits/mask_array.h \
+  /usr/include/c++/14.1.1/bits/memory_resource.h \
+  /usr/include/c++/14.1.1/bits/memoryfwd.h \
+  /usr/include/c++/14.1.1/bits/move.h \
+  /usr/include/c++/14.1.1/bits/nested_exception.h \
+  /usr/include/c++/14.1.1/bits/new_allocator.h \
+  /usr/include/c++/14.1.1/bits/node_handle.h \
+  /usr/include/c++/14.1.1/bits/ostream.tcc \
+  /usr/include/c++/14.1.1/bits/ostream_insert.h \
+  /usr/include/c++/14.1.1/bits/parse_numbers.h \
+  /usr/include/c++/14.1.1/bits/postypes.h \
+  /usr/include/c++/14.1.1/bits/predefined_ops.h \
+  /usr/include/c++/14.1.1/bits/ptr_traits.h \
+  /usr/include/c++/14.1.1/bits/quoted_string.h \
+  /usr/include/c++/14.1.1/bits/range_access.h \
+  /usr/include/c++/14.1.1/bits/refwrap.h \
+  /usr/include/c++/14.1.1/bits/requires_hosted.h \
+  /usr/include/c++/14.1.1/bits/shared_ptr.h \
+  /usr/include/c++/14.1.1/bits/shared_ptr_atomic.h \
+  /usr/include/c++/14.1.1/bits/shared_ptr_base.h \
+  /usr/include/c++/14.1.1/bits/slice_array.h \
+  /usr/include/c++/14.1.1/bits/specfun.h \
+  /usr/include/c++/14.1.1/bits/sstream.tcc \
+  /usr/include/c++/14.1.1/bits/std_abs.h \
+  /usr/include/c++/14.1.1/bits/std_function.h \
+  /usr/include/c++/14.1.1/bits/stl_algo.h \
+  /usr/include/c++/14.1.1/bits/stl_algobase.h \
+  /usr/include/c++/14.1.1/bits/stl_bvector.h \
+  /usr/include/c++/14.1.1/bits/stl_construct.h \
+  /usr/include/c++/14.1.1/bits/stl_function.h \
+  /usr/include/c++/14.1.1/bits/stl_heap.h \
+  /usr/include/c++/14.1.1/bits/stl_iterator.h \
+  /usr/include/c++/14.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/14.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/14.1.1/bits/stl_map.h \
+  /usr/include/c++/14.1.1/bits/stl_multimap.h \
+  /usr/include/c++/14.1.1/bits/stl_numeric.h \
+  /usr/include/c++/14.1.1/bits/stl_pair.h \
+  /usr/include/c++/14.1.1/bits/stl_raw_storage_iter.h \
+  /usr/include/c++/14.1.1/bits/stl_relops.h \
+  /usr/include/c++/14.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/14.1.1/bits/stl_tree.h \
+  /usr/include/c++/14.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/14.1.1/bits/stl_vector.h \
+  /usr/include/c++/14.1.1/bits/stream_iterator.h \
+  /usr/include/c++/14.1.1/bits/streambuf.tcc \
+  /usr/include/c++/14.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/14.1.1/bits/string_view.tcc \
+  /usr/include/c++/14.1.1/bits/stringfwd.h \
+  /usr/include/c++/14.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/14.1.1/bits/unique_ptr.h \
+  /usr/include/c++/14.1.1/bits/unordered_map.h \
+  /usr/include/c++/14.1.1/bits/uses_allocator.h \
+  /usr/include/c++/14.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/14.1.1/bits/utility.h \
+  /usr/include/c++/14.1.1/bits/valarray_after.h \
+  /usr/include/c++/14.1.1/bits/valarray_array.h \
+  /usr/include/c++/14.1.1/bits/valarray_array.tcc \
+  /usr/include/c++/14.1.1/bits/valarray_before.h \
+  /usr/include/c++/14.1.1/bits/vector.tcc \
+  /usr/include/c++/14.1.1/bits/version.h \
+  /usr/include/c++/14.1.1/cassert \
+  /usr/include/c++/14.1.1/cctype \
+  /usr/include/c++/14.1.1/cerrno \
+  /usr/include/c++/14.1.1/chrono \
+  /usr/include/c++/14.1.1/climits \
+  /usr/include/c++/14.1.1/clocale \
+  /usr/include/c++/14.1.1/cmath \
+  /usr/include/c++/14.1.1/codecvt \
+  /usr/include/c++/14.1.1/compare \
+  /usr/include/c++/14.1.1/concepts \
+  /usr/include/c++/14.1.1/cstddef \
+  /usr/include/c++/14.1.1/cstdint \
+  /usr/include/c++/14.1.1/cstdio \
+  /usr/include/c++/14.1.1/cstdlib \
+  /usr/include/c++/14.1.1/cstring \
+  /usr/include/c++/14.1.1/ctime \
+  /usr/include/c++/14.1.1/cwchar \
+  /usr/include/c++/14.1.1/cwctype \
+  /usr/include/c++/14.1.1/debug/assertions.h \
+  /usr/include/c++/14.1.1/debug/debug.h \
+  /usr/include/c++/14.1.1/exception \
+  /usr/include/c++/14.1.1/ext/aligned_buffer.h \
+  /usr/include/c++/14.1.1/ext/alloc_traits.h \
+  /usr/include/c++/14.1.1/ext/atomicity.h \
+  /usr/include/c++/14.1.1/ext/concurrence.h \
+  /usr/include/c++/14.1.1/ext/numeric_traits.h \
+  /usr/include/c++/14.1.1/ext/string_conversions.h \
+  /usr/include/c++/14.1.1/ext/type_traits.h \
+  /usr/include/c++/14.1.1/filesystem \
+  /usr/include/c++/14.1.1/format \
+  /usr/include/c++/14.1.1/forward_list \
+  /usr/include/c++/14.1.1/fstream \
+  /usr/include/c++/14.1.1/functional \
+  /usr/include/c++/14.1.1/initializer_list \
+  /usr/include/c++/14.1.1/iomanip \
+  /usr/include/c++/14.1.1/ios \
+  /usr/include/c++/14.1.1/iosfwd \
+  /usr/include/c++/14.1.1/iostream \
+  /usr/include/c++/14.1.1/istream \
+  /usr/include/c++/14.1.1/iterator \
+  /usr/include/c++/14.1.1/limits \
+  /usr/include/c++/14.1.1/locale \
+  /usr/include/c++/14.1.1/map \
+  /usr/include/c++/14.1.1/memory \
+  /usr/include/c++/14.1.1/new \
+  /usr/include/c++/14.1.1/numeric \
+  /usr/include/c++/14.1.1/ostream \
+  /usr/include/c++/14.1.1/pstl/execution_defs.h \
+  /usr/include/c++/14.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/14.1.1/pstl/glue_memory_defs.h \
+  /usr/include/c++/14.1.1/pstl/glue_numeric_defs.h \
+  /usr/include/c++/14.1.1/pstl/pstl_config.h \
+  /usr/include/c++/14.1.1/ratio \
+  /usr/include/c++/14.1.1/sstream \
+  /usr/include/c++/14.1.1/stdexcept \
+  /usr/include/c++/14.1.1/streambuf \
+  /usr/include/c++/14.1.1/string \
+  /usr/include/c++/14.1.1/string_view \
+  /usr/include/c++/14.1.1/system_error \
+  /usr/include/c++/14.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/14.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/14.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/14.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/14.1.1/tr1/gamma.tcc \
+  /usr/include/c++/14.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/14.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/14.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/14.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/14.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/14.1.1/tr1/riemann_zeta.tcc \
+  /usr/include/c++/14.1.1/tr1/special_function_util.h \
+  /usr/include/c++/14.1.1/tuple \
+  /usr/include/c++/14.1.1/type_traits \
+  /usr/include/c++/14.1.1/typeinfo \
+  /usr/include/c++/14.1.1/unordered_map \
+  /usr/include/c++/14.1.1/utility \
+  /usr/include/c++/14.1.1/valarray \
+  /usr/include/c++/14.1.1/vector \
+  /usr/include/c++/14.1.1/version \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/basic_file.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++io.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/libintl.h \
+  /usr/include/limits.h \
+  /usr/include/linux/errno.h \
+  /usr/include/linux/limits.h \
+  /usr/include/locale.h \
+  /usr/include/math.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/string.h \
+  /usr/include/strings.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/include/wctype.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/limits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stdint.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/syslimits.h
 
 CMakeFiles/TestChat_Client.dir/User.cpp.o: /home/patate/Prog/CPP/TestChat/User.cpp \
   /home/patate/Prog/CPP/TestChat/User.hpp \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
-  /usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
-  /usr/x86_64-w64-mingw32/include/_mingw.h \
-  /usr/x86_64-w64-mingw32/include/_mingw_mac.h \
-  /usr/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  /usr/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  /usr/x86_64-w64-mingw32/include/_mingw_stat64.h \
-  /usr/x86_64-w64-mingw32/include/_timeval.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/backward/binders.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bit \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/alloc_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/allocator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_ios.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_ios.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_string.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_string.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/char_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/charconv.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/concept_check.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/cpp_type_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/cxxabi_forced.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/cxxabi_init_exception.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception_defines.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception_ptr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/functexcept.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/functional_hash.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/hash_bytes.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/invoke.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ios_base.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/istream.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_classes.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_classes.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/localefwd.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/memory_resource.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/memoryfwd.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/move.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/nested_exception.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/new_allocator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ostream.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ostream_insert.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/postypes.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/predefined_ops.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ptr_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/range_access.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/refwrap.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/requires_hosted.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/std_abs.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_algobase.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_bvector.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_construct.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_function.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_iterator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_iterator_base_funcs.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_iterator_base_types.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_pair.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_uninitialized.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_vector.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/streambuf.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/streambuf_iterator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/string_view.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stringfwd.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/uses_allocator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/uses_allocator_args.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/utility.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/vector.tcc \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cctype \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cerrno \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/clocale \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstddef \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstdio \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cstdlib \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cwchar \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/cwctype \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/debug/assertions.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/debug/debug.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/exception \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/alloc_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/atomicity.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/numeric_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/string_conversions.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/type_traits.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/initializer_list \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ios \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/iosfwd \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/iostream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/istream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/new \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/ostream \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/pstl_config.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/stdexcept \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/stdlib.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/streambuf \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/string \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/string_view \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/system_error \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/tuple \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/type_traits \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/typeinfo \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/vector \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/atomic_word.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++allocator.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++config.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++locale.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/ctype_base.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/ctype_inline.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/error_constants.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/gthr-default.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/gthr.h \
-  /usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/os_defines.h \
-  /usr/x86_64-w64-mingw32/include/corecrt.h \
-  /usr/x86_64-w64-mingw32/include/corecrt_startup.h \
-  /usr/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  /usr/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  /usr/x86_64-w64-mingw32/include/crtdefs.h \
-  /usr/x86_64-w64-mingw32/include/ctype.h \
-  /usr/x86_64-w64-mingw32/include/errno.h \
-  /usr/x86_64-w64-mingw32/include/limits.h \
-  /usr/x86_64-w64-mingw32/include/locale.h \
-  /usr/x86_64-w64-mingw32/include/malloc.h \
-  /usr/x86_64-w64-mingw32/include/process.h \
-  /usr/x86_64-w64-mingw32/include/pthread.h \
-  /usr/x86_64-w64-mingw32/include/pthread_compat.h \
-  /usr/x86_64-w64-mingw32/include/pthread_signal.h \
-  /usr/x86_64-w64-mingw32/include/pthread_time.h \
-  /usr/x86_64-w64-mingw32/include/pthread_unistd.h \
-  /usr/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
-  /usr/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
-  /usr/x86_64-w64-mingw32/include/signal.h \
-  /usr/x86_64-w64-mingw32/include/stddef.h \
-  /usr/x86_64-w64-mingw32/include/stdio.h \
-  /usr/x86_64-w64-mingw32/include/stdlib.h \
-  /usr/x86_64-w64-mingw32/include/swprintf.inl \
-  /usr/x86_64-w64-mingw32/include/sys/timeb.h \
-  /usr/x86_64-w64-mingw32/include/sys/types.h \
-  /usr/x86_64-w64-mingw32/include/time.h \
-  /usr/x86_64-w64-mingw32/include/vadefs.h \
-  /usr/x86_64-w64-mingw32/include/wchar.h \
-  /usr/x86_64-w64-mingw32/include/wctype.h
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wctype-wchar.h \
+  /usr/include/bits/wordsize.h \
+  /usr/include/c++/14.1.1/backward/binders.h \
+  /usr/include/c++/14.1.1/bit \
+  /usr/include/c++/14.1.1/bits/alloc_traits.h \
+  /usr/include/c++/14.1.1/bits/allocator.h \
+  /usr/include/c++/14.1.1/bits/basic_ios.h \
+  /usr/include/c++/14.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/14.1.1/bits/basic_string.h \
+  /usr/include/c++/14.1.1/bits/basic_string.tcc \
+  /usr/include/c++/14.1.1/bits/char_traits.h \
+  /usr/include/c++/14.1.1/bits/charconv.h \
+  /usr/include/c++/14.1.1/bits/concept_check.h \
+  /usr/include/c++/14.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/14.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/14.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/14.1.1/bits/exception.h \
+  /usr/include/c++/14.1.1/bits/exception_defines.h \
+  /usr/include/c++/14.1.1/bits/exception_ptr.h \
+  /usr/include/c++/14.1.1/bits/functexcept.h \
+  /usr/include/c++/14.1.1/bits/functional_hash.h \
+  /usr/include/c++/14.1.1/bits/hash_bytes.h \
+  /usr/include/c++/14.1.1/bits/invoke.h \
+  /usr/include/c++/14.1.1/bits/ios_base.h \
+  /usr/include/c++/14.1.1/bits/istream.tcc \
+  /usr/include/c++/14.1.1/bits/locale_classes.h \
+  /usr/include/c++/14.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/14.1.1/bits/locale_facets.h \
+  /usr/include/c++/14.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/14.1.1/bits/localefwd.h \
+  /usr/include/c++/14.1.1/bits/memory_resource.h \
+  /usr/include/c++/14.1.1/bits/memoryfwd.h \
+  /usr/include/c++/14.1.1/bits/move.h \
+  /usr/include/c++/14.1.1/bits/nested_exception.h \
+  /usr/include/c++/14.1.1/bits/new_allocator.h \
+  /usr/include/c++/14.1.1/bits/ostream.tcc \
+  /usr/include/c++/14.1.1/bits/ostream_insert.h \
+  /usr/include/c++/14.1.1/bits/postypes.h \
+  /usr/include/c++/14.1.1/bits/predefined_ops.h \
+  /usr/include/c++/14.1.1/bits/ptr_traits.h \
+  /usr/include/c++/14.1.1/bits/range_access.h \
+  /usr/include/c++/14.1.1/bits/refwrap.h \
+  /usr/include/c++/14.1.1/bits/requires_hosted.h \
+  /usr/include/c++/14.1.1/bits/std_abs.h \
+  /usr/include/c++/14.1.1/bits/stl_algobase.h \
+  /usr/include/c++/14.1.1/bits/stl_bvector.h \
+  /usr/include/c++/14.1.1/bits/stl_construct.h \
+  /usr/include/c++/14.1.1/bits/stl_function.h \
+  /usr/include/c++/14.1.1/bits/stl_iterator.h \
+  /usr/include/c++/14.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/14.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/14.1.1/bits/stl_pair.h \
+  /usr/include/c++/14.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/14.1.1/bits/stl_vector.h \
+  /usr/include/c++/14.1.1/bits/streambuf.tcc \
+  /usr/include/c++/14.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/14.1.1/bits/string_view.tcc \
+  /usr/include/c++/14.1.1/bits/stringfwd.h \
+  /usr/include/c++/14.1.1/bits/uses_allocator.h \
+  /usr/include/c++/14.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/14.1.1/bits/utility.h \
+  /usr/include/c++/14.1.1/bits/vector.tcc \
+  /usr/include/c++/14.1.1/bits/version.h \
+  /usr/include/c++/14.1.1/cctype \
+  /usr/include/c++/14.1.1/cerrno \
+  /usr/include/c++/14.1.1/clocale \
+  /usr/include/c++/14.1.1/concepts \
+  /usr/include/c++/14.1.1/cstddef \
+  /usr/include/c++/14.1.1/cstdio \
+  /usr/include/c++/14.1.1/cstdlib \
+  /usr/include/c++/14.1.1/cwchar \
+  /usr/include/c++/14.1.1/cwctype \
+  /usr/include/c++/14.1.1/debug/assertions.h \
+  /usr/include/c++/14.1.1/debug/debug.h \
+  /usr/include/c++/14.1.1/exception \
+  /usr/include/c++/14.1.1/ext/alloc_traits.h \
+  /usr/include/c++/14.1.1/ext/atomicity.h \
+  /usr/include/c++/14.1.1/ext/numeric_traits.h \
+  /usr/include/c++/14.1.1/ext/string_conversions.h \
+  /usr/include/c++/14.1.1/ext/type_traits.h \
+  /usr/include/c++/14.1.1/initializer_list \
+  /usr/include/c++/14.1.1/ios \
+  /usr/include/c++/14.1.1/iosfwd \
+  /usr/include/c++/14.1.1/iostream \
+  /usr/include/c++/14.1.1/istream \
+  /usr/include/c++/14.1.1/new \
+  /usr/include/c++/14.1.1/ostream \
+  /usr/include/c++/14.1.1/pstl/pstl_config.h \
+  /usr/include/c++/14.1.1/stdexcept \
+  /usr/include/c++/14.1.1/streambuf \
+  /usr/include/c++/14.1.1/string \
+  /usr/include/c++/14.1.1/string_view \
+  /usr/include/c++/14.1.1/system_error \
+  /usr/include/c++/14.1.1/tuple \
+  /usr/include/c++/14.1.1/type_traits \
+  /usr/include/c++/14.1.1/typeinfo \
+  /usr/include/c++/14.1.1/vector \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/include/wctype.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stddef.h
 
 
 /home/patate/Prog/CPP/TestChat/User.cpp:
 
-/usr/x86_64-w64-mingw32/include/sec_api/string_s.h:
+/usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/limits.h:
 
-/usr/x86_64-w64-mingw32/include/math.h:
+/usr/include/strings.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/version:
+/usr/include/string.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/valarray:
+/usr/include/math.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/unordered_map:
+/usr/include/linux/limits.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/special_function_util.h:
+/usr/include/limits.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/poly_laguerre.tcc:
+/usr/include/c++/14.1.1/version:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/poly_hermite.tcc:
+/usr/include/c++/14.1.1/valarray:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/modified_bessel_func.tcc:
+/usr/include/c++/14.1.1/utility:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/legendre_function.tcc:
+/usr/include/c++/14.1.1/tr1/special_function_util.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/gamma.tcc:
+/usr/include/c++/14.1.1/tr1/poly_laguerre.tcc:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/exp_integral.tcc:
+/usr/include/c++/14.1.1/tr1/modified_bessel_func.tcc:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/bessel_function.tcc:
+/usr/include/c++/14.1.1/tr1/legendre_function.tcc:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/glue_numeric_defs.h:
+/usr/include/c++/14.1.1/tr1/gamma.tcc:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/numeric:
+/usr/include/c++/14.1.1/tr1/exp_integral.tcc:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/memory:
+/usr/include/c++/14.1.1/tr1/ell_integral.tcc:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/map:
+/usr/include/c++/14.1.1/pstl/execution_defs.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/forward_list:
+/usr/include/c++/14.1.1/tr1/beta_function.tcc:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/format:
+/usr/include/c++/14.1.1/memory:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/cstring:
+/usr/include/c++/14.1.1/map:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/glue_memory_defs.h:
+/usr/include/c++/14.1.1/iterator:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/compare:
+/usr/include/c++/14.1.1/functional:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/cmath:
+/usr/include/c++/14.1.1/pstl/glue_memory_defs.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/chrono:
+/usr/include/c++/14.1.1/forward_list:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/valarray_array.tcc:
+/usr/include/c++/14.1.1/format:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/valarray_array.h:
+/usr/include/c++/14.1.1/cstring:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/valarray_after.h:
+/usr/include/c++/14.1.1/cmath:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/uniform_int_dist.h:
+/usr/include/c++/14.1.1/climits:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stream_iterator.h:
+/usr/include/c++/14.1.1/bits/valarray_before.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_tree.h:
+/usr/include/c++/14.1.1/bits/valarray_array.tcc:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_relops.h:
+/usr/include/c++/14.1.1/bits/valarray_array.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_raw_storage_iter.h:
+/usr/include/c++/14.1.1/bits/valarray_after.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_numeric.h:
+/usr/include/c++/14.1.1/bits/uniform_int_dist.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_multimap.h:
+/usr/include/c++/14.1.1/bits/stl_relops.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_map.h:
+/usr/include/c++/14.1.1/bits/stl_numeric.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_heap.h:
+/usr/include/c++/14.1.1/bits/stl_heap.h:
 
-/usr/x86_64-w64-mingw32/include/swprintf.inl:
+/usr/include/c++/14.1.1/bits/std_function.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/concept_check.h:
+/usr/include/c++/14.1.1/bits/node_handle.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/new:
+/usr/include/c++/14.1.1/bits/stream_iterator.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/gthr-default.h:
+/usr/include/c++/14.1.1/bits/indirect_array.h:
 
-/usr/x86_64-w64-mingw32/include/wctype.h:
+/usr/include/c++/14.1.1/bits/hashtable_policy.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/iomanip:
+/usr/include/c++/14.1.1/bits/hashtable.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/sstream.tcc:
+/usr/include/c++/14.1.1/bits/gslice_array.h:
 
-/usr/x86_64-w64-mingw32/include/_mingw.h:
+/usr/include/c++/14.1.1/bits/gslice.h:
 
-/usr/x86_64-w64-mingw32/include/ctype.h:
+/usr/include/c++/14.1.1/bits/forward_list.tcc:
 
-/home/patate/Prog/CPP/TestChat/Client.cpp:
+/usr/include/c++/14.1.1/compare:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/string_conversions.h:
+/usr/include/c++/14.1.1/bits/enable_special_members.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_iterator_base_types.h:
+/usr/include/c++/14.1.1/bits/atomic_lockfree_defines.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/limits:
+/usr/include/c++/14.1.1/bits/align.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/atomicity.h:
+/usr/include/c++/14.1.1/bits/algorithmfwd.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/memoryfwd.h:
+/usr/include/c++/14.1.1/any:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/exception:
+/usr/include/bits/xopen_lim.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/cstdlib:
+/usr/include/c++/14.1.1/backward/auto_ptr.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/clocale:
+/usr/include/bits/posix2_lim.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/iterator:
+/usr/include/bits/mathcalls-narrow.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/backward/binders.h:
+/usr/include/bits/mathcalls-helper-functions.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/cctype:
+/usr/include/bits/uio_lim.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/vector.tcc:
+/usr/include/bits/math-vector.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/utility.h:
+/usr/include/c++/14.1.1/bits/unordered_map.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_vector.h:
+/usr/include/bits/libm-simd-decl-stubs.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/gslice_array.h:
+/usr/include/bits/flt-eval-method.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/unique_ptr.h:
+/usr/include/assert.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/filesystem:
+/opt/vcpkg/installed/x64-linux/include/nlohmann/thirdparty/hedley/hedley_undef.hpp:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/istream:
+/opt/vcpkg/installed/x64-linux/include/nlohmann/ordered_map.hpp:
 
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/is_sax.hpp:
+/opt/vcpkg/installed/x64-linux/include/nlohmann/json.hpp:
 
-/opt/vcpkg/installed/x64-linux/include/nlohmann/byte_container_with_subtype.hpp:
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/value_t.hpp:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/aligned_buffer.h:
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/string_escape.hpp:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/sstream:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_uninitialized.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/locale:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/hypergeometric.tcc:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_iterator_base_funcs.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_conv.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/numeric_traits.h:
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/string_concat.hpp:
 
 /opt/vcpkg/installed/x64-linux/include/nlohmann/detail/output/serializer.hpp:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/utility:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_iterator.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_bvector.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++io.h:
-
-/usr/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_algobase.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/fstream:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/time_members.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/shared_ptr.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/ratio:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/postypes.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_string.tcc:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/nested_exception.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/shared_ptr_base.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ostream_insert.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/cpp_type_traits.h:
-
-/usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/cassert:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/charconv.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/localefwd.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_function.h:
-
-/usr/x86_64-w64-mingw32/include/process.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/cerrno:
-
-/usr/x86_64-w64-mingw32/include/string.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/conversions/from_json.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/detected.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/istream.tcc:
-
-/usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/void_t.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/ostream:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/type_traits.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/allocated_ptr.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_ios.tcc:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/debug/assertions.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/iostream:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/codecvt.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/quoted_string.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/cstddef:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fs_path.h:
-
-/usr/x86_64-w64-mingw32/include/sec_api/wchar_s.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/algorithm:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/forward_list.tcc:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/cxxabi_init_exception.h:
-
-/usr/x86_64-w64-mingw32/include/pthread_unistd.h:
-
-/usr/x86_64-w64-mingw32/include/_timeval.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/glue_algorithm_defs.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/invoke.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_pair.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/codecvt:
-
-/usr/x86_64-w64-mingw32/include/stddef.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/streambuf.tcc:
-
-/usr/x86_64-w64-mingw32/include/corecrt_wstdlib.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/iterators/iteration_proxy.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/move.h:
-
-/usr/x86_64-w64-mingw32/include/corecrt_startup.h:
-
-/usr/x86_64-w64-mingw32/include/wchar.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/ctime:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/concurrence.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/cstdint:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/alloc_traits.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/stdlib.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_tempbuf.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/streambuf:
-
-/usr/x86_64-w64-mingw32/include/pthread_time.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/any:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_string.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/specfun.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/string_view:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/align.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/functexcept.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_construct.h:
-
-/home/patate/Prog/CPP/TestChat/User.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bit:
-
-/usr/x86_64-w64-mingw32/include/_mingw_stat64.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ostream.tcc:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/input/input_adapters.hpp:
-
-/usr/x86_64-w64-mingw32/include/_mingw_mac.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ios_base.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/beta_function.tcc:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/unordered_map.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/cstdio:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/allocator.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fs_ops.h:
-
-/usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/hash_bytes.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets_nonio.tcc:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/iterators/json_reverse_iterator.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/iosfwd:
-
-/usr/x86_64-w64-mingw32/include/_mingw_secapi.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/ptr_traits.h:
-
-/usr/x86_64-w64-mingw32/include/_mingw_off_t.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/cxxabi_forced.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/char_traits.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/uses_allocator.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/os_defines.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception_defines.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/predefined_ops.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stringfwd.h:
-
-/usr/x86_64-w64-mingw32/include/corecrt_stdio_config.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fs_dir.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/uses_allocator_args.h:
-
-/usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h:
-
-/usr/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/string_view.tcc:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/std_abs.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_classes.h:
-
-/usr/x86_64-w64-mingw32/include/pthread_compat.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/streambuf_iterator.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/identity_tag.hpp:
-
-/home/patate/Prog/CPP/TestChat/Server.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/std_function.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/initializer_list:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/refwrap.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/new_allocator.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/stdexcept:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/string:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/system_error:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tuple:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/ext/alloc_traits.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/type_traits:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/vector:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/input/binary_reader.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++allocator.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++locale.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/abi_macros.hpp:
-
-/usr/x86_64-w64-mingw32/include/vadefs.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/ctype_inline.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/basic_ios.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/gthr.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/messages_members.h:
-
-/usr/x86_64-w64-mingw32/include/corecrt.h:
-
-/usr/x86_64-w64-mingw32/include/crtdefs.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/cwctype:
-
-/usr/x86_64-w64-mingw32/include/errno.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/iterators/iterator_traits.hpp:
-
-/usr/x86_64-w64-mingw32/include/limits.h:
-
-/usr/x86_64-w64-mingw32/include/malloc.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/array:
-
-/usr/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
-
-/usr/x86_64-w64-mingw32/include/pthread.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/atomic_lockfree_defines.h:
-
-/usr/x86_64-w64-mingw32/include/pthread_signal.h:
-
-/usr/x86_64-w64-mingw32/include/stdint.h:
-
-/usr/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/cpu_defines.h:
-
-/usr/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
-
-/usr/x86_64-w64-mingw32/include/sys/timeb.h:
-
-/usr/x86_64-w64-mingw32/include/stdio.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/chrono.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/input/json_sax.hpp:
-
-/usr/x86_64-w64-mingw32/include/stdlib.h:
-
-/usr/x86_64-w64-mingw32/include/sys/types.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/functional:
-
-/usr/x86_64-w64-mingw32/include/time.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/basic_file.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/gslice.h:
-
-/home/patate/Prog/CPP/TestChat/Server.cpp:
-
-/opt/vcpkg/installed/x64-linux/include/date/date.h:
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/type_traits.hpp:
 
 /opt/vcpkg/installed/x64-linux/include/nlohmann/detail/output/output_adapters.hpp:
 
 /opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/std_fs.hpp:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/exception_ptr.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/adl_serializer.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/json_fwd.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/riemann_zeta.tcc:
-
-/usr/x86_64-w64-mingw32/include/locale.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/thirdparty/hedley/hedley_undef.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/ios:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/conversions/to_json.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/iterators/iter_impl.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/input/parser.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/exceptions.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/requires_hosted.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/input/lexer.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/conversions/to_chars.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/input/position_t.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/ordered_map.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_classes.tcc:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets.tcc:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/error_constants.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/iterators/internal_iterator.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/json_custom_base_class.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/cwchar:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fs_fwd.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/json_pointer.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/tr1/ell_integral.tcc:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/macro_scope.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/call_std/begin.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/pstl_config.h:
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/detected.hpp:
 
 /opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/call_std/end.hpp:
 
-/usr/x86_64-w64-mingw32/include/signal.h:
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/call_std/begin.hpp:
 
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/type_traits.hpp:
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/macro_scope.hpp:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/range_access.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/hash.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/output/binary_writer.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/fstream.tcc:
-
-/usr/x86_64-w64-mingw32/include/assert.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/string_concat.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/string_escape.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++config.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/value_t.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/json.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/iterators/primitive_iterator.hpp:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/thirdparty/hedley/hedley.hpp:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/backward/auto_ptr.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/algorithmfwd.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/climits:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/valarray_before.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/atomic_base.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/enable_special_members.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/functional_hash.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/erase_if.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/forward_list.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/pstl/execution_defs.h:
-
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/debug/debug.h:
-
-/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/json_ref.hpp:
+/usr/include/c++/14.1.1/bits/specfun.h:
 
 /opt/vcpkg/installed/x64-linux/include/nlohmann/detail/macro_unscope.hpp:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/hashtable.h:
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/json_ref.hpp:
+
+/usr/include/c++/14.1.1/bits/stl_iterator.h:
+
+/usr/include/c++/14.1.1/bits/streambuf.tcc:
+
+/usr/include/c++/14.1.1/bits/refwrap.h:
+
+/usr/include/sys/single_threaded.h:
+
+/usr/include/c++/14.1.1/string_view:
+
+/usr/include/c++/14.1.1/bits/ptr_traits.h:
+
+/usr/include/c++/14.1.1/bits/new_allocator.h:
+
+/usr/include/c++/14.1.1/bits/nested_exception.h:
+
+/usr/include/bits/struct_rwlock.h:
+
+/usr/include/c++/14.1.1/bits/uses_allocator_args.h:
+
+/usr/include/c++/14.1.1/bits/locale_facets.tcc:
+
+/usr/include/c++/14.1.1/bits/locale_classes.h:
+
+/usr/include/bits/thread-shared-types.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/identity_tag.hpp:
+
+/usr/include/c++/14.1.1/bits/ios_base.h:
+
+/usr/include/c++/14.1.1/bits/shared_ptr_atomic.h:
+
+/usr/include/c++/14.1.1/bits/hash_bytes.h:
+
+/usr/include/c++/14.1.1/cctype:
+
+/usr/include/c++/14.1.1/bits/stl_multimap.h:
+
+/usr/include/c++/14.1.1/bits/functexcept.h:
+
+/usr/include/c++/14.1.1/bits/fstream.tcc:
+
+/usr/include/c++/14.1.1/bits/stl_iterator_base_funcs.h:
+
+/usr/include/c++/14.1.1/ostream:
+
+/usr/include/c++/14.1.1/bits/cpp_type_traits.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/c++/14.1.1/bits/concept_check.h:
+
+/usr/include/c++/14.1.1/bits/ostream.tcc:
+
+/usr/include/c++/14.1.1/bits/erase_if.h:
+
+/usr/include/c++/14.1.1/bits/postypes.h:
+
+/usr/include/c++/14.1.1/ext/alloc_traits.h:
+
+/usr/include/c++/14.1.1/tr1/bessel_function.tcc:
+
+/usr/include/c++/14.1.1/bits/locale_facets_nonio.tcc:
+
+/usr/include/locale.h:
+
+/usr/include/c++/14.1.1/bits/chrono.h:
+
+/usr/include/c++/14.1.1/codecvt:
+
+/usr/include/c++/14.1.1/bits/char_traits.h:
+
+/usr/include/c++/14.1.1/bits/basic_string.tcc:
+
+/usr/include/c++/14.1.1/bits/shared_ptr.h:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++io.h:
+
+/usr/include/c++/14.1.1/bits/exception_ptr.h:
+
+/usr/include/bits/types/__fpos_t.h:
+
+/usr/include/c++/14.1.1/bits/mask_array.h:
+
+/usr/include/bits/types/clock_t.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/iterators/json_reverse_iterator.hpp:
+
+/usr/include/c++/14.1.1/bits/basic_ios.h:
+
+/usr/include/c++/14.1.1/bits/stl_algo.h:
+
+/usr/include/c++/14.1.1/typeinfo:
+
+/usr/include/c++/14.1.1/bits/allocated_ptr.h:
+
+/usr/include/c++/14.1.1/bits/alloc_traits.h:
+
+/usr/include/c++/14.1.1/concepts:
+
+/usr/include/bits/wctype-wchar.h:
+
+/usr/include/c++/14.1.1/bits/stl_vector.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/c++/14.1.1/bits/fs_dir.h:
+
+/usr/include/c++/14.1.1/bits/cxxabi_forced.h:
+
+/usr/include/bits/floatn-common.h:
+
+/usr/include/bits/types/timer_t.h:
+
+/usr/include/c++/14.1.1/bits/fs_fwd.h:
+
+/usr/include/c++/14.1.1/unordered_map:
+
+/usr/include/bits/cpu-set.h:
+
+/usr/include/c++/14.1.1/backward/binders.h:
+
+/usr/include/c++/14.1.1/bits/localefwd.h:
+
+/usr/include/bits/stdint-least.h:
+
+/usr/include/c++/14.1.1/pstl/glue_numeric_defs.h:
+
+/usr/include/c++/14.1.1/cstdlib:
+
+/home/patate/Prog/CPP/TestChat/Server.cpp:
+
+/usr/include/alloca.h:
+
+/usr/include/c++/14.1.1/chrono:
+
+/usr/include/c++/14.1.1/bits/stringfwd.h:
+
+/usr/include/c++/14.1.1/bits/atomic_base.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/c++/14.1.1/bits/vector.tcc:
+
+/usr/include/bits/types/__fpos64_t.h:
+
+/usr/include/bits/pthreadtypes-arch.h:
+
+/usr/include/c++/14.1.1/bits/sstream.tcc:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/c++/14.1.1/bits/stl_algobase.h:
+
+/usr/include/bits/pthread_stack_min-dynamic.h:
+
+/usr/include/c++/14.1.1/ext/numeric_traits.h:
+
+/usr/include/c++/14.1.1/bits/locale_classes.tcc:
+
+/usr/include/bits/timex.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/syslimits.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/c++/14.1.1/cassert:
+
+/usr/include/c++/14.1.1/bits/functional_hash.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/is_sax.hpp:
+
+/usr/include/c++/14.1.1/bits/cxxabi_init_exception.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/bits/types/sigset_t.h:
+
+/usr/include/c++/14.1.1/bits/locale_conv.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/iterators/internal_iterator.hpp:
+
+/usr/include/c++/14.1.1/bits/std_abs.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/json_fwd.hpp:
+
+/usr/include/bits/types/error_t.h:
+
+/usr/include/c++/14.1.1/bits/fs_path.h:
+
+/usr/include/c++/14.1.1/bits/memory_resource.h:
+
+/usr/include/bits/types/mbstate_t.h:
+
+/usr/include/bits/libc-header-start.h:
+
+/usr/include/c++/14.1.1/bits/quoted_string.h:
+
+/usr/include/c++/14.1.1/bits/allocator.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/iterators/iterator_traits.hpp:
+
+/home/patate/Prog/CPP/TestChat/Server.hpp:
+
+/usr/include/c++/14.1.1/ratio:
+
+/usr/include/libintl.h:
+
+/usr/include/bits/endianness.h:
+
+/usr/include/c++/14.1.1/bits/locale_facets.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h:
+
+/usr/include/bits/types/struct_itimerspec.h:
+
+/usr/include/c++/14.1.1/bits/range_access.h:
+
+/usr/include/bits/setjmp.h:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h:
+
+/usr/include/c++/14.1.1/bits/stl_tempbuf.h:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/gthr.h:
+
+/usr/include/c++/14.1.1/bits/unique_ptr.h:
+
+/usr/include/c++/14.1.1/bits/fs_ops.h:
+
+/home/patate/Prog/CPP/TestChat/User.hpp:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/ctype.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stdint.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/thirdparty/hedley/hedley.hpp:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/iterators/primitive_iterator.hpp:
+
+/usr/include/bits/types/struct_sched_param.h:
+
+/usr/include/bits/types/__sigset_t.h:
+
+/usr/include/c++/14.1.1/bits/predefined_ops.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/c++/14.1.1/tr1/riemann_zeta.tcc:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/void_t.hpp:
+
+/usr/include/bits/types/__mbstate_t.h:
+
+/usr/include/c++/14.1.1/locale:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/c++/14.1.1/bits/stl_uninitialized.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/c++/14.1.1/bits/basic_ios.tcc:
+
+/usr/include/c++/14.1.1/stdexcept:
+
+/usr/include/bits/types/cookie_io_functions_t.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/adl_serializer.hpp:
+
+/usr/include/bits/time64.h:
+
+/usr/include/c++/14.1.1/bits/forward_list.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/bits/long-double.h:
+
+/usr/include/bits/uintn-identity.h:
+
+/usr/include/c++/14.1.1/bits/parse_numbers.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/struct_mutex.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/input/input_adapters.hpp:
+
+/usr/include/c++/14.1.1/bits/move.h:
+
+/usr/include/c++/14.1.1/bits/memoryfwd.h:
+
+/usr/include/c++/14.1.1/bits/istream.tcc:
+
+/usr/include/c++/14.1.1/clocale:
+
+/usr/include/asm/errno.h:
+
+/usr/include/bits/stdint-uintn.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/c++/14.1.1/bits/ostream_insert.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/output/binary_writer.hpp:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/hash.hpp:
+
+/usr/include/bits/types/__locale_t.h:
+
+/usr/include/c++/14.1.1/ext/atomicity.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stdarg.h:
+
+/usr/include/bits/atomic_wide_counter.h:
+
+/usr/include/bits/stdint-intn.h:
+
+/usr/include/bits/types/clockid_t.h:
+
+/usr/include/features.h:
+
+/usr/include/bits/types/__FILE.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/c++/14.1.1/ext/aligned_buffer.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/abi_macros.hpp:
+
+/usr/include/bits/types/locale_t.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/input/lexer.hpp:
+
+/usr/include/c++/14.1.1/bits/exception_defines.h:
 
 /opt/vcpkg/installed/x64-linux/include/nlohmann/detail/meta/cpp_future.hpp:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/ctype_base.h:
+/usr/include/bits/types/struct_FILE.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/hashtable_policy.h:
+/usr/include/c++/14.1.1/array:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/indirect_array.h:
+/usr/include/bits/mathcalls.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/parse_numbers.h:
+/usr/include/c++/14.1.1/bits/requires_hosted.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/mask_array.h:
+/usr/include/c++/14.1.1/cstdint:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/locale_facets_nonio.h:
+/usr/include/c++/14.1.1/filesystem:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/memory_resource.h:
+/usr/include/c++/14.1.1/bits/basic_string.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/typeinfo:
+/usr/include/bits/types/struct_timespec.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/node_handle.h:
+/usr/include/bits/endian.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/x86_64-w64-mingw32/bits/atomic_word.h:
+/usr/include/c++/14.1.1/string:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/shared_ptr_atomic.h:
+/usr/include/bits/types/struct_timeval.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/slice_array.h:
+/usr/include/bits/locale.h:
 
-/usr/x86_64-w64-mingw32/include/c++/13.1.0/bits/stl_algo.h:
+/usr/include/c++/14.1.1/bit:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/json_pointer.hpp:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/bits/types/struct___jmp_buf_tag.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/bits/types/struct_tm.h:
+
+/usr/include/c++/14.1.1/bits/codecvt.h:
+
+/usr/include/c++/14.1.1/bits/stl_bvector.h:
+
+/usr/include/c++/14.1.1/bits/streambuf_iterator.h:
+
+/usr/include/c++/14.1.1/bits/stl_function.h:
+
+/usr/include/c++/14.1.1/bits/invoke.h:
+
+/usr/include/c++/14.1.1/bits/stl_pair.h:
+
+/usr/include/bits/floatn.h:
+
+/usr/include/c++/14.1.1/bits/uses_allocator.h:
+
+/usr/include/c++/14.1.1/system_error:
+
+/usr/include/bits/types/wint_t.h:
+
+/usr/include/c++/14.1.1/bits/utility.h:
+
+/usr/include/c++/14.1.1/cstddef:
+
+/usr/include/c++/14.1.1/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/14.1.1/bits/version.h:
+
+/usr/include/c++/14.1.1/pstl/glue_algorithm_defs.h:
+
+/usr/include/c++/14.1.1/cerrno:
+
+/usr/include/c++/14.1.1/numeric:
+
+/usr/include/c++/14.1.1/iomanip:
+
+/usr/include/c++/14.1.1/sstream:
+
+/home/patate/Prog/CPP/TestChat/Client.cpp:
+
+/usr/include/c++/14.1.1/cstdio:
+
+/usr/include/c++/14.1.1/bits/charconv.h:
+
+/usr/include/bits/types/FILE.h:
+
+/usr/include/c++/14.1.1/limits:
+
+/usr/include/bits/timesize.h:
+
+/usr/include/c++/14.1.1/ctime:
+
+/usr/include/c++/14.1.1/cwchar:
+
+/usr/include/c++/14.1.1/cwctype:
+
+/usr/include/c++/14.1.1/debug/assertions.h:
+
+/usr/include/c++/14.1.1/debug/debug.h:
+
+/usr/include/c++/14.1.1/ext/concurrence.h:
+
+/usr/include/c++/14.1.1/ext/string_conversions.h:
+
+/usr/include/c++/14.1.1/ext/type_traits.h:
+
+/usr/include/c++/14.1.1/initializer_list:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h:
+
+/usr/include/c++/14.1.1/ios:
+
+/usr/include/c++/14.1.1/iosfwd:
+
+/usr/include/bits/fp-logb.h:
+
+/usr/include/c++/14.1.1/iostream:
+
+/usr/include/c++/14.1.1/exception:
+
+/usr/include/pthread.h:
+
+/usr/include/c++/14.1.1/istream:
+
+/usr/include/c++/14.1.1/tr1/hypergeometric.tcc:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++locale.h:
+
+/usr/include/c++/14.1.1/bits/stl_construct.h:
+
+/usr/include/c++/14.1.1/new:
+
+/usr/include/bits/iscanonical.h:
+
+/usr/include/c++/14.1.1/pstl/pstl_config.h:
+
+/usr/include/c++/14.1.1/tuple:
+
+/usr/include/c++/14.1.1/type_traits:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stddef.h:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/basic_file.h:
+
+/usr/include/c++/14.1.1/bits/string_view.tcc:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++config.h:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h:
+
+/usr/include/c++/14.1.1/vector:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/error_constants.h:
+
+/usr/include/c++/14.1.1/bits/exception.h:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/messages_members.h:
+
+/usr/include/bits/types/time_t.h:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/os_defines.h:
+
+/usr/include/c++/14.1.1/fstream:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/time_members.h:
+
+/usr/include/c++/14.1.1/bits/slice_array.h:
+
+/usr/include/c++/14.1.1/algorithm:
+
+/usr/include/errno.h:
+
+/usr/include/c++/14.1.1/bits/stl_raw_storage_iter.h:
+
+/usr/include/features-time64.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/bits/fp-fast.h:
+
+/usr/include/wctype.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/input/json_sax.hpp:
+
+/usr/include/sched.h:
+
+/usr/include/endian.h:
+
+/usr/include/stdint.h:
+
+/usr/include/c++/14.1.1/bits/stl_map.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/stdio.h:
+
+/usr/include/c++/14.1.1/bits/stl_tree.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/c++/14.1.1/tr1/poly_hermite.tcc:
+
+/usr/include/c++/14.1.1/bits/shared_ptr_base.h:
+
+/usr/include/time.h:
+
+/opt/vcpkg/installed/x64-linux/include/date/date.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/c++/14.1.1/bits/locale_facets_nonio.h:
+
+/usr/include/wchar.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/byte_container_with_subtype.hpp:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h:
+
+/usr/include/asm-generic/errno.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/conversions/from_json.hpp:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/input/position_t.hpp:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/conversions/to_chars.hpp:
+
+/usr/include/bits/pthreadtypes.h:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/conversions/to_json.hpp:
+
+/usr/include/c++/14.1.1/streambuf:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/iterators/iter_impl.hpp:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/input/binary_reader.hpp:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/exceptions.hpp:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/input/parser.hpp:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/iterators/iteration_proxy.hpp:
+
+/opt/vcpkg/installed/x64-linux/include/nlohmann/detail/json_custom_base_class.hpp:
